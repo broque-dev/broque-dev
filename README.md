@@ -1,17 +1,18 @@
-# Learnly – Plataforma E-commerce de Cursos
+# Hola, soy Brandon
 
-## Descripción
-Aplicación web para la compra y venta de cursos online.
+Estudiante de Ingeniería de Sistemas  
+Desarrollador Full Stack Jr  
 
 ## Tecnologías
-- JavaScript
-- Node.js
-- MongoDB
-- HTML, CSS
+- Java, JavaScript, Python
+- React, Angular, Node.js
+- MySQL, MongoDB
 
-## Funcionalidades
-- Registro e inicio de sesión
-- Gestión de usuarios
-- Sistema de mensajería
-- Panel de administración
+## Proyectos Destacados
+- Learnly → Plataforma e-commerce de cursos
+- TecnoSchool → Sistema de gestión académica
+- Listo+ → App móvil de delivery
 
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/brandonroqu3
+- Email: brandonroqu3@gmail.com
